@@ -1,0 +1,1772 @@
+#Ioseph's partie-colored coat containing, a comment on part of the 11. chapter of the 1. epistle of S. Paul to the Corinthians : together with severall sermons, namely, [brace] 1. Growth in grace, 2. How farre examples may be followed, 3. An ill match well broken off, 4. Good from bad friends, 5. A glasse for gluttons, 6. How farre grace may be entayled, 7. A christning sermon, 8. Faction confuted / by T.F.#
+
+##Fuller, Thomas, 1608-1661.##
+Ioseph's partie-colored coat containing, a comment on part of the 11. chapter of the 1. epistle of S. Paul to the Corinthians : together with severall sermons, namely, [brace] 1. Growth in grace, 2. How farre examples may be followed, 3. An ill match well broken off, 4. Good from bad friends, 5. A glasse for gluttons, 6. How farre grace may be entayled, 7. A christning sermon, 8. Faction confuted / by T.F.
+Fuller, Thomas, 1608-1661.
+
+##General Summary##
+
+**Links**
+
+[TCP catalogue](http://www.ota.ox.ac.uk/tcp/)  • 
+[HTML](http://tei.it.ox.ac.uk/tcp/Texts-HTML/free/A01/A01344.html)  • 
+[EPUB](http://tei.it.ox.ac.uk/tcp/Texts-EPUB/free/A01/A01344.epub) • 
+[Page images (Historical Texts)](https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-24133576e&pageId=eebo-24133576e-27228-1)
+
+**Availability**
+
+This keyboarded and encoded edition of the
+	       work described above is co-owned by the institutions
+	       providing financial support to the Early English Books
+	       Online Text Creation Partnership. This Phase I text is
+	       available for reuse, according to the terms of Creative
+	       Commons 0 1.0 Universal. The text can be copied,
+	       modified, distributed and performed, even for
+	       commercial purposes, all without asking permission.
+
+**Major revisions**
+
+1. __2002-08__ __TCP__ *Assigned for keying and markup*
+1. __2002-09__ __SPi Global__ *Keyed and coded from ProQuest page images*
+1. __2002-10__ __Olivia Bottum__ *Sampled and proofread*
+1. __2002-10__ __Olivia Bottum__ *Text and markup reviewed and edited*
+1. __2002-12__ __pfs__ *Batch review (QC) and XML conversion*
+
+##Content Summary##
+
+#####Front#####
+IOSEPH'S PARTIE-COLORED COAT, CONTAINING, A COMMENT ON Part of the 11. Chapter of the 1. Epistle of 
+1. TO THE RIGHT WORSHIPFVLL, the Lady IANE COVERT, of Peper Harrow in Surry.
+
+#####Body#####
+
+1. A COMMENT on 1 COR. 11.18. &c. For first of all when you come together in the Church, I heare there be divisions among you, and I partly beleeve it.
+
+    _ When you come together in the Church, &c.
+
+    _ I heare there be divisions among you.
+
+    _ There are divisions.Object.
+
+    _ And I partly beleeve it.
+
+    _ Heresies are worse than Schismes, false doctrines more dangerous than divisions. The former, sinnes against faith; the later, against Charity; and though these two Graces be sisters and twins, yet Faith is the eldest and choycest.
+
+    _ There must be also Heresies.
+
+    _ Among you.
+
+    _ That they which are reproved may be made manifest among you.
+
+    _ This is not to eate the Lords Supper.
+
+    _ For in eating every one taketh before other his owne Supper.
+
+    _ Their Institution.
+
+    _ Their Declination.
+
+    _ Their Corruption.
+
+    _ For in eating every one taketh, &c.
+
+    _ His owne Suyper.
+
+    _ And one is hungry.
+
+    _ And another is drunken.
+
+    _ And shame them that have not.
+
+    _ What shall I say, shall I prayse you in this?
+
+    _ In this I prayse you not.
+
+    _ For I have received of the Lord.
+
+    _ I also delivered unto you.
+
+    _ That the Lord Iesus the same night, wherein he was betrayed.
+
+    _ Tooke Bread.
+
+    _ And when hee had given thankes. 〈 in non-Latin alphabet 〉.
+
+    _ Hee brake it.
+
+    _ And said unto them, Take.
+
+    _ This is my Body.
+
+    _ Which is broken for you.
+
+    _ Doe this.
+
+    _ In Remembrance.
+
+    _ Reasons of our Forgetfulnesse.
+
+    _ Of mee
+
+    _ When hee had supped.
+
+    _ This Cup is the New Testament in my blood.
+
+    _ You doe shew forth the Lords body.
+
+    _ Till I come.
+
+    _ Not in Gluttony.
+
+    _ Which dwelt first.
+
+    _ Grand-mother Lois, and Mother Eunice.
+
+    _ Then went hee downe, &c.
+
+    _ Then.
+
+1. VERSE 19. For there must be also heresies among you, that they which are approved, may be made manifest among you.
+
+    _ When you come together in the Church, &c.
+
+    _ I heare there be divisions among you.
+
+    _ There are divisions.Object.
+
+    _ And I partly beleeve it.
+
+    _ Heresies are worse than Schismes, false doctrines more dangerous than divisions. The former, sinnes against faith; the later, against Charity; and though these two Graces be sisters and twins, yet Faith is the eldest and choycest.
+
+    _ There must be also Heresies.
+
+    _ Among you.
+
+    _ That they which are reproved may be made manifest among you.
+
+    _ This is not to eate the Lords Supper.
+
+    _ For in eating every one taketh before other his owne Supper.
+
+    _ Their Institution.
+
+    _ Their Declination.
+
+    _ Their Corruption.
+
+    _ For in eating every one taketh, &c.
+
+    _ His owne Suyper.
+
+    _ And one is hungry.
+
+    _ And another is drunken.
+
+    _ And shame them that have not.
+
+    _ What shall I say, shall I prayse you in this?
+
+    _ In this I prayse you not.
+
+    _ For I have received of the Lord.
+
+    _ I also delivered unto you.
+
+    _ That the Lord Iesus the same night, wherein he was betrayed.
+
+    _ Tooke Bread.
+
+    _ And when hee had given thankes. 〈 in non-Latin alphabet 〉.
+
+    _ Hee brake it.
+
+    _ And said unto them, Take.
+
+    _ This is my Body.
+
+    _ Which is broken for you.
+
+    _ Doe this.
+
+    _ In Remembrance.
+
+    _ Reasons of our Forgetfulnesse.
+
+    _ Of mee
+
+    _ When hee had supped.
+
+    _ This Cup is the New Testament in my blood.
+
+    _ You doe shew forth the Lords body.
+
+    _ Till I come.
+
+    _ Not in Gluttony.
+
+    _ Which dwelt first.
+
+    _ Grand-mother Lois, and Mother Eunice.
+
+    _ Then went hee downe, &c.
+
+    _ Then.
+
+1. VERS. 20.21. When you come together therefore into one place, this is not to eate the Lords Supper. For in eating, every one taketh before other his own Supper; and one is hungry, and another is drunken.
+
+    _ When you come together in the Church, &c.
+
+    _ I heare there be divisions among you.
+
+    _ There are divisions.Object.
+
+    _ And I partly beleeve it.
+
+    _ Heresies are worse than Schismes, false doctrines more dangerous than divisions. The former, sinnes against faith; the later, against Charity; and though these two Graces be sisters and twins, yet Faith is the eldest and choycest.
+
+    _ There must be also Heresies.
+
+    _ Among you.
+
+    _ That they which are reproved may be made manifest among you.
+
+    _ This is not to eate the Lords Supper.
+
+    _ For in eating every one taketh before other his owne Supper.
+
+    _ Their Institution.
+
+    _ Their Declination.
+
+    _ Their Corruption.
+
+    _ For in eating every one taketh, &c.
+
+    _ His owne Suyper.
+
+    _ And one is hungry.
+
+    _ And another is drunken.
+
+    _ And shame them that have not.
+
+    _ What shall I say, shall I prayse you in this?
+
+    _ In this I prayse you not.
+
+    _ For I have received of the Lord.
+
+    _ I also delivered unto you.
+
+    _ That the Lord Iesus the same night, wherein he was betrayed.
+
+    _ Tooke Bread.
+
+    _ And when hee had given thankes. 〈 in non-Latin alphabet 〉.
+
+    _ Hee brake it.
+
+    _ And said unto them, Take.
+
+    _ This is my Body.
+
+    _ Which is broken for you.
+
+    _ Doe this.
+
+    _ In Remembrance.
+
+    _ Reasons of our Forgetfulnesse.
+
+    _ Of mee
+
+    _ When hee had supped.
+
+    _ This Cup is the New Testament in my blood.
+
+    _ You doe shew forth the Lords body.
+
+    _ Till I come.
+
+    _ Not in Gluttony.
+
+    _ Which dwelt first.
+
+    _ Grand-mother Lois, and Mother Eunice.
+
+    _ Then went hee downe, &c.
+
+    _ Then.
+
+1. VERSE 22. What have yee not houses to eate and drinke in, or despise yee the Church of God, and shame them that have not, what shall I say unto you? shall I prayse you in this? I prayse you not.
+
+    _ When you come together in the Church, &c.
+
+    _ I heare there be divisions among you.
+
+    _ There are divisions.Object.
+
+    _ And I partly beleeve it.
+
+    _ Heresies are worse than Schismes, false doctrines more dangerous than divisions. The former, sinnes against faith; the later, against Charity; and though these two Graces be sisters and twins, yet Faith is the eldest and choycest.
+
+    _ There must be also Heresies.
+
+    _ Among you.
+
+    _ That they which are reproved may be made manifest among you.
+
+    _ This is not to eate the Lords Supper.
+
+    _ For in eating every one taketh before other his owne Supper.
+
+    _ Their Institution.
+
+    _ Their Declination.
+
+    _ Their Corruption.
+
+    _ For in eating every one taketh, &c.
+
+    _ His owne Suyper.
+
+    _ And one is hungry.
+
+    _ And another is drunken.
+
+    _ And shame them that have not.
+
+    _ What shall I say, shall I prayse you in this?
+
+    _ In this I prayse you not.
+
+    _ For I have received of the Lord.
+
+    _ I also delivered unto you.
+
+    _ That the Lord Iesus the same night, wherein he was betrayed.
+
+    _ Tooke Bread.
+
+    _ And when hee had given thankes. 〈 in non-Latin alphabet 〉.
+
+    _ Hee brake it.
+
+    _ And said unto them, Take.
+
+    _ This is my Body.
+
+    _ Which is broken for you.
+
+    _ Doe this.
+
+    _ In Remembrance.
+
+    _ Reasons of our Forgetfulnesse.
+
+    _ Of mee
+
+    _ When hee had supped.
+
+    _ This Cup is the New Testament in my blood.
+
+    _ You doe shew forth the Lords body.
+
+    _ Till I come.
+
+    _ Not in Gluttony.
+
+    _ Which dwelt first.
+
+    _ Grand-mother Lois, and Mother Eunice.
+
+    _ Then went hee downe, &c.
+
+    _ Then.
+
+1. VERSE 23. For I have received of the Lord that which I also delivered unto you, that the Lord Iesus, the same night, in which hee was betrayed tooke bread.
+
+    _ When you come together in the Church, &c.
+
+    _ I heare there be divisions among you.
+
+    _ There are divisions.Object.
+
+    _ And I partly beleeve it.
+
+    _ Heresies are worse than Schismes, false doctrines more dangerous than divisions. The former, sinnes against faith; the later, against Charity; and though these two Graces be sisters and twins, yet Faith is the eldest and choycest.
+
+    _ There must be also Heresies.
+
+    _ Among you.
+
+    _ That they which are reproved may be made manifest among you.
+
+    _ This is not to eate the Lords Supper.
+
+    _ For in eating every one taketh before other his owne Supper.
+
+    _ Their Institution.
+
+    _ Their Declination.
+
+    _ Their Corruption.
+
+    _ For in eating every one taketh, &c.
+
+    _ His owne Suyper.
+
+    _ And one is hungry.
+
+    _ And another is drunken.
+
+    _ And shame them that have not.
+
+    _ What shall I say, shall I prayse you in this?
+
+    _ In this I prayse you not.
+
+    _ For I have received of the Lord.
+
+    _ I also delivered unto you.
+
+    _ That the Lord Iesus the same night, wherein he was betrayed.
+
+    _ Tooke Bread.
+
+    _ And when hee had given thankes. 〈 in non-Latin alphabet 〉.
+
+    _ Hee brake it.
+
+    _ And said unto them, Take.
+
+    _ This is my Body.
+
+    _ Which is broken for you.
+
+    _ Doe this.
+
+    _ In Remembrance.
+
+    _ Reasons of our Forgetfulnesse.
+
+    _ Of mee
+
+    _ When hee had supped.
+
+    _ This Cup is the New Testament in my blood.
+
+    _ You doe shew forth the Lords body.
+
+    _ Till I come.
+
+    _ Not in Gluttony.
+
+    _ Which dwelt first.
+
+    _ Grand-mother Lois, and Mother Eunice.
+
+    _ Then went hee downe, &c.
+
+    _ Then.
+
+1. VERSE 24. And when hee had given thankes hee brake it, and sayd, Take, eate, this is my body, which is broken for you; this doe in remembrance of mee.
+
+    _ When you come together in the Church, &c.
+
+    _ I heare there be divisions among you.
+
+    _ There are divisions.Object.
+
+    _ And I partly beleeve it.
+
+    _ Heresies are worse than Schismes, false doctrines more dangerous than divisions. The former, sinnes against faith; the later, against Charity; and though these two Graces be sisters and twins, yet Faith is the eldest and choycest.
+
+    _ There must be also Heresies.
+
+    _ Among you.
+
+    _ That they which are reproved may be made manifest among you.
+
+    _ This is not to eate the Lords Supper.
+
+    _ For in eating every one taketh before other his owne Supper.
+
+    _ Their Institution.
+
+    _ Their Declination.
+
+    _ Their Corruption.
+
+    _ For in eating every one taketh, &c.
+
+    _ His owne Suyper.
+
+    _ And one is hungry.
+
+    _ And another is drunken.
+
+    _ And shame them that have not.
+
+    _ What shall I say, shall I prayse you in this?
+
+    _ In this I prayse you not.
+
+    _ For I have received of the Lord.
+
+    _ I also delivered unto you.
+
+    _ That the Lord Iesus the same night, wherein he was betrayed.
+
+    _ Tooke Bread.
+
+    _ And when hee had given thankes. 〈 in non-Latin alphabet 〉.
+
+    _ Hee brake it.
+
+    _ And said unto them, Take.
+
+    _ This is my Body.
+
+    _ Which is broken for you.
+
+    _ Doe this.
+
+    _ In Remembrance.
+
+    _ Reasons of our Forgetfulnesse.
+
+    _ Of mee
+
+    _ When hee had supped.
+
+    _ This Cup is the New Testament in my blood.
+
+    _ You doe shew forth the Lords body.
+
+    _ Till I come.
+
+    _ Not in Gluttony.
+
+    _ Which dwelt first.
+
+    _ Grand-mother Lois, and Mother Eunice.
+
+    _ Then went hee downe, &c.
+
+    _ Then.
+
+1. VERSE 25. After the same manner also hee tooke the Cup, when hee had supped, saying, this Cup is the new Testament in my blood, this doe yee as oft as yee drinke it, in remembrance of me.
+
+    _ When you come together in the Church, &c.
+
+    _ I heare there be divisions among you.
+
+    _ There are divisions.Object.
+
+    _ And I partly beleeve it.
+
+    _ Heresies are worse than Schismes, false doctrines more dangerous than divisions. The former, sinnes against faith; the later, against Charity; and though these two Graces be sisters and twins, yet Faith is the eldest and choycest.
+
+    _ There must be also Heresies.
+
+    _ Among you.
+
+    _ That they which are reproved may be made manifest among you.
+
+    _ This is not to eate the Lords Supper.
+
+    _ For in eating every one taketh before other his owne Supper.
+
+    _ Their Institution.
+
+    _ Their Declination.
+
+    _ Their Corruption.
+
+    _ For in eating every one taketh, &c.
+
+    _ His owne Suyper.
+
+    _ And one is hungry.
+
+    _ And another is drunken.
+
+    _ And shame them that have not.
+
+    _ What shall I say, shall I prayse you in this?
+
+    _ In this I prayse you not.
+
+    _ For I have received of the Lord.
+
+    _ I also delivered unto you.
+
+    _ That the Lord Iesus the same night, wherein he was betrayed.
+
+    _ Tooke Bread.
+
+    _ And when hee had given thankes. 〈 in non-Latin alphabet 〉.
+
+    _ Hee brake it.
+
+    _ And said unto them, Take.
+
+    _ This is my Body.
+
+    _ Which is broken for you.
+
+    _ Doe this.
+
+    _ In Remembrance.
+
+    _ Reasons of our Forgetfulnesse.
+
+    _ Of mee
+
+    _ When hee had supped.
+
+    _ This Cup is the New Testament in my blood.
+
+    _ You doe shew forth the Lords body.
+
+    _ Till I come.
+
+    _ Not in Gluttony.
+
+    _ Which dwelt first.
+
+    _ Grand-mother Lois, and Mother Eunice.
+
+    _ Then went hee downe, &c.
+
+    _ Then.
+
+1. VERSE 26. For as often as yee eate of this Bread, and drinke this Cup, yee doe shew the Lords body till hee come.
+
+    _ When you come together in the Church, &c.
+
+    _ I heare there be divisions among you.
+
+    _ There are divisions.Object.
+
+    _ And I partly beleeve it.
+
+    _ Heresies are worse than Schismes, false doctrines more dangerous than divisions. The former, sinnes against faith; the later, against Charity; and though these two Graces be sisters and twins, yet Faith is the eldest and choycest.
+
+    _ There must be also Heresies.
+
+    _ Among you.
+
+    _ That they which are reproved may be made manifest among you.
+
+    _ This is not to eate the Lords Supper.
+
+    _ For in eating every one taketh before other his owne Supper.
+
+    _ Their Institution.
+
+    _ Their Declination.
+
+    _ Their Corruption.
+
+    _ For in eating every one taketh, &c.
+
+    _ His owne Suyper.
+
+    _ And one is hungry.
+
+    _ And another is drunken.
+
+    _ And shame them that have not.
+
+    _ What shall I say, shall I prayse you in this?
+
+    _ In this I prayse you not.
+
+    _ For I have received of the Lord.
+
+    _ I also delivered unto you.
+
+    _ That the Lord Iesus the same night, wherein he was betrayed.
+
+    _ Tooke Bread.
+
+    _ And when hee had given thankes. 〈 in non-Latin alphabet 〉.
+
+    _ Hee brake it.
+
+    _ And said unto them, Take.
+
+    _ This is my Body.
+
+    _ Which is broken for you.
+
+    _ Doe this.
+
+    _ In Remembrance.
+
+    _ Reasons of our Forgetfulnesse.
+
+    _ Of mee
+
+    _ When hee had supped.
+
+    _ This Cup is the New Testament in my blood.
+
+    _ You doe shew forth the Lords body.
+
+    _ Till I come.
+
+    _ Not in Gluttony.
+
+    _ Which dwelt first.
+
+    _ Grand-mother Lois, and Mother Eunice.
+
+    _ Then went hee downe, &c.
+
+    _ Then.
+
+1. VERSE 27. Wherefore whosoever shall eate this Bread, and drinke this Cup of the Lord unworthily, shall be guilty of the body and blood of the Lord.
+
+    _ When you come together in the Church, &c.
+
+    _ I heare there be divisions among you.
+
+    _ There are divisions.Object.
+
+    _ And I partly beleeve it.
+
+    _ Heresies are worse than Schismes, false doctrines more dangerous than divisions. The former, sinnes against faith; the later, against Charity; and though these two Graces be sisters and twins, yet Faith is the eldest and choycest.
+
+    _ There must be also Heresies.
+
+    _ Among you.
+
+    _ That they which are reproved may be made manifest among you.
+
+    _ This is not to eate the Lords Supper.
+
+    _ For in eating every one taketh before other his owne Supper.
+
+    _ Their Institution.
+
+    _ Their Declination.
+
+    _ Their Corruption.
+
+    _ For in eating every one taketh, &c.
+
+    _ His owne Suyper.
+
+    _ And one is hungry.
+
+    _ And another is drunken.
+
+    _ And shame them that have not.
+
+    _ What shall I say, shall I prayse you in this?
+
+    _ In this I prayse you not.
+
+    _ For I have received of the Lord.
+
+    _ I also delivered unto you.
+
+    _ That the Lord Iesus the same night, wherein he was betrayed.
+
+    _ Tooke Bread.
+
+    _ And when hee had given thankes. 〈 in non-Latin alphabet 〉.
+
+    _ Hee brake it.
+
+    _ And said unto them, Take.
+
+    _ This is my Body.
+
+    _ Which is broken for you.
+
+    _ Doe this.
+
+    _ In Remembrance.
+
+    _ Reasons of our Forgetfulnesse.
+
+    _ Of mee
+
+    _ When hee had supped.
+
+    _ This Cup is the New Testament in my blood.
+
+    _ You doe shew forth the Lords body.
+
+    _ Till I come.
+
+    _ Not in Gluttony.
+
+    _ Which dwelt first.
+
+    _ Grand-mother Lois, and Mother Eunice.
+
+    _ Then went hee downe, &c.
+
+    _ Then.
+
+1. VERSE 28. But let a man examine himselfe, and so let him eate of this Bread, and drinke of this Cup.
+
+    _ When you come together in the Church, &c.
+
+    _ I heare there be divisions among you.
+
+    _ There are divisions.Object.
+
+    _ And I partly beleeve it.
+
+    _ Heresies are worse than Schismes, false doctrines more dangerous than divisions. The former, sinnes against faith; the later, against Charity; and though these two Graces be sisters and twins, yet Faith is the eldest and choycest.
+
+    _ There must be also Heresies.
+
+    _ Among you.
+
+    _ That they which are reproved may be made manifest among you.
+
+    _ This is not to eate the Lords Supper.
+
+    _ For in eating every one taketh before other his owne Supper.
+
+    _ Their Institution.
+
+    _ Their Declination.
+
+    _ Their Corruption.
+
+    _ For in eating every one taketh, &c.
+
+    _ His owne Suyper.
+
+    _ And one is hungry.
+
+    _ And another is drunken.
+
+    _ And shame them that have not.
+
+    _ What shall I say, shall I prayse you in this?
+
+    _ In this I prayse you not.
+
+    _ For I have received of the Lord.
+
+    _ I also delivered unto you.
+
+    _ That the Lord Iesus the same night, wherein he was betrayed.
+
+    _ Tooke Bread.
+
+    _ And when hee had given thankes. 〈 in non-Latin alphabet 〉.
+
+    _ Hee brake it.
+
+    _ And said unto them, Take.
+
+    _ This is my Body.
+
+    _ Which is broken for you.
+
+    _ Doe this.
+
+    _ In Remembrance.
+
+    _ Reasons of our Forgetfulnesse.
+
+    _ Of mee
+
+    _ When hee had supped.
+
+    _ This Cup is the New Testament in my blood.
+
+    _ You doe shew forth the Lords body.
+
+    _ Till I come.
+
+    _ Not in Gluttony.
+
+    _ Which dwelt first.
+
+    _ Grand-mother Lois, and Mother Eunice.
+
+    _ Then went hee downe, &c.
+
+    _ Then.
+
+1. VERS. 30. For this cause many are weake and sicke among you, and many sleepe.
+
+    _ When you come together in the Church, &c.
+
+    _ I heare there be divisions among you.
+
+    _ There are divisions.Object.
+
+    _ And I partly beleeve it.
+
+    _ Heresies are worse than Schismes, false doctrines more dangerous than divisions. The former, sinnes against faith; the later, against Charity; and though these two Graces be sisters and twins, yet Faith is the eldest and choycest.
+
+    _ There must be also Heresies.
+
+    _ Among you.
+
+    _ That they which are reproved may be made manifest among you.
+
+    _ This is not to eate the Lords Supper.
+
+    _ For in eating every one taketh before other his owne Supper.
+
+    _ Their Institution.
+
+    _ Their Declination.
+
+    _ Their Corruption.
+
+    _ For in eating every one taketh, &c.
+
+    _ His owne Suyper.
+
+    _ And one is hungry.
+
+    _ And another is drunken.
+
+    _ And shame them that have not.
+
+    _ What shall I say, shall I prayse you in this?
+
+    _ In this I prayse you not.
+
+    _ For I have received of the Lord.
+
+    _ I also delivered unto you.
+
+    _ That the Lord Iesus the same night, wherein he was betrayed.
+
+    _ Tooke Bread.
+
+    _ And when hee had given thankes. 〈 in non-Latin alphabet 〉.
+
+    _ Hee brake it.
+
+    _ And said unto them, Take.
+
+    _ This is my Body.
+
+    _ Which is broken for you.
+
+    _ Doe this.
+
+    _ In Remembrance.
+
+    _ Reasons of our Forgetfulnesse.
+
+    _ Of mee
+
+    _ When hee had supped.
+
+    _ This Cup is the New Testament in my blood.
+
+    _ You doe shew forth the Lords body.
+
+    _ Till I come.
+
+    _ Not in Gluttony.
+
+    _ Which dwelt first.
+
+    _ Grand-mother Lois, and Mother Eunice.
+
+    _ Then went hee downe, &c.
+
+    _ Then.
+
+1. GROWTH IN GRACE.
+
+    _ When you come together in the Church, &c.
+
+    _ I heare there be divisions among you.
+
+    _ There are divisions.Object.
+
+    _ And I partly beleeve it.
+
+    _ Heresies are worse than Schismes, false doctrines more dangerous than divisions. The former, sinnes against faith; the later, against Charity; and though these two Graces be sisters and twins, yet Faith is the eldest and choycest.
+
+    _ There must be also Heresies.
+
+    _ Among you.
+
+    _ That they which are reproved may be made manifest among you.
+
+    _ This is not to eate the Lords Supper.
+
+    _ For in eating every one taketh before other his owne Supper.
+
+    _ Their Institution.
+
+    _ Their Declination.
+
+    _ Their Corruption.
+
+    _ For in eating every one taketh, &c.
+
+    _ His owne Suyper.
+
+    _ And one is hungry.
+
+    _ And another is drunken.
+
+    _ And shame them that have not.
+
+    _ What shall I say, shall I prayse you in this?
+
+    _ In this I prayse you not.
+
+    _ For I have received of the Lord.
+
+    _ I also delivered unto you.
+
+    _ That the Lord Iesus the same night, wherein he was betrayed.
+
+    _ Tooke Bread.
+
+    _ And when hee had given thankes. 〈 in non-Latin alphabet 〉.
+
+    _ Hee brake it.
+
+    _ And said unto them, Take.
+
+    _ This is my Body.
+
+    _ Which is broken for you.
+
+    _ Doe this.
+
+    _ In Remembrance.
+
+    _ Reasons of our Forgetfulnesse.
+
+    _ Of mee
+
+    _ When hee had supped.
+
+    _ This Cup is the New Testament in my blood.
+
+    _ You doe shew forth the Lords body.
+
+    _ Till I come.
+
+    _ Not in Gluttony.
+
+    _ Which dwelt first.
+
+    _ Grand-mother Lois, and Mother Eunice.
+
+    _ Then went hee downe, &c.
+
+    _ Then.
+
+1. HOW FAR EXAMPLES ARE TO BE FOLLOVVED.
+
+    _ When you come together in the Church, &c.
+
+    _ I heare there be divisions among you.
+
+    _ There are divisions.Object.
+
+    _ And I partly beleeve it.
+
+    _ Heresies are worse than Schismes, false doctrines more dangerous than divisions. The former, sinnes against faith; the later, against Charity; and though these two Graces be sisters and twins, yet Faith is the eldest and choycest.
+
+    _ There must be also Heresies.
+
+    _ Among you.
+
+    _ That they which are reproved may be made manifest among you.
+
+    _ This is not to eate the Lords Supper.
+
+    _ For in eating every one taketh before other his owne Supper.
+
+    _ Their Institution.
+
+    _ Their Declination.
+
+    _ Their Corruption.
+
+    _ For in eating every one taketh, &c.
+
+    _ His owne Suyper.
+
+    _ And one is hungry.
+
+    _ And another is drunken.
+
+    _ And shame them that have not.
+
+    _ What shall I say, shall I prayse you in this?
+
+    _ In this I prayse you not.
+
+    _ For I have received of the Lord.
+
+    _ I also delivered unto you.
+
+    _ That the Lord Iesus the same night, wherein he was betrayed.
+
+    _ Tooke Bread.
+
+    _ And when hee had given thankes. 〈 in non-Latin alphabet 〉.
+
+    _ Hee brake it.
+
+    _ And said unto them, Take.
+
+    _ This is my Body.
+
+    _ Which is broken for you.
+
+    _ Doe this.
+
+    _ In Remembrance.
+
+    _ Reasons of our Forgetfulnesse.
+
+    _ Of mee
+
+    _ When hee had supped.
+
+    _ This Cup is the New Testament in my blood.
+
+    _ You doe shew forth the Lords body.
+
+    _ Till I come.
+
+    _ Not in Gluttony.
+
+    _ Which dwelt first.
+
+    _ Grand-mother Lois, and Mother Eunice.
+
+    _ Then went hee downe, &c.
+
+    _ Then.
+
+1. AN ILL MATCH VVEL BROKEN OFF.
+
+    _ When you come together in the Church, &c.
+
+    _ I heare there be divisions among you.
+
+    _ There are divisions.Object.
+
+    _ And I partly beleeve it.
+
+    _ Heresies are worse than Schismes, false doctrines more dangerous than divisions. The former, sinnes against faith; the later, against Charity; and though these two Graces be sisters and twins, yet Faith is the eldest and choycest.
+
+    _ There must be also Heresies.
+
+    _ Among you.
+
+    _ That they which are reproved may be made manifest among you.
+
+    _ This is not to eate the Lords Supper.
+
+    _ For in eating every one taketh before other his owne Supper.
+
+    _ Their Institution.
+
+    _ Their Declination.
+
+    _ Their Corruption.
+
+    _ For in eating every one taketh, &c.
+
+    _ His owne Suyper.
+
+    _ And one is hungry.
+
+    _ And another is drunken.
+
+    _ And shame them that have not.
+
+    _ What shall I say, shall I prayse you in this?
+
+    _ In this I prayse you not.
+
+    _ For I have received of the Lord.
+
+    _ I also delivered unto you.
+
+    _ That the Lord Iesus the same night, wherein he was betrayed.
+
+    _ Tooke Bread.
+
+    _ And when hee had given thankes. 〈 in non-Latin alphabet 〉.
+
+    _ Hee brake it.
+
+    _ And said unto them, Take.
+
+    _ This is my Body.
+
+    _ Which is broken for you.
+
+    _ Doe this.
+
+    _ In Remembrance.
+
+    _ Reasons of our Forgetfulnesse.
+
+    _ Of mee
+
+    _ When hee had supped.
+
+    _ This Cup is the New Testament in my blood.
+
+    _ You doe shew forth the Lords body.
+
+    _ Till I come.
+
+    _ Not in Gluttony.
+
+    _ Which dwelt first.
+
+    _ Grand-mother Lois, and Mother Eunice.
+
+    _ Then went hee downe, &c.
+
+    _ Then.
+
+1. GOOD FROM BAD FRIENDS.
+
+    _ When you come together in the Church, &c.
+
+    _ I heare there be divisions among you.
+
+    _ There are divisions.Object.
+
+    _ And I partly beleeve it.
+
+    _ Heresies are worse than Schismes, false doctrines more dangerous than divisions. The former, sinnes against faith; the later, against Charity; and though these two Graces be sisters and twins, yet Faith is the eldest and choycest.
+
+    _ There must be also Heresies.
+
+    _ Among you.
+
+    _ That they which are reproved may be made manifest among you.
+
+    _ This is not to eate the Lords Supper.
+
+    _ For in eating every one taketh before other his owne Supper.
+
+    _ Their Institution.
+
+    _ Their Declination.
+
+    _ Their Corruption.
+
+    _ For in eating every one taketh, &c.
+
+    _ His owne Suyper.
+
+    _ And one is hungry.
+
+    _ And another is drunken.
+
+    _ And shame them that have not.
+
+    _ What shall I say, shall I prayse you in this?
+
+    _ In this I prayse you not.
+
+    _ For I have received of the Lord.
+
+    _ I also delivered unto you.
+
+    _ That the Lord Iesus the same night, wherein he was betrayed.
+
+    _ Tooke Bread.
+
+    _ And when hee had given thankes. 〈 in non-Latin alphabet 〉.
+
+    _ Hee brake it.
+
+    _ And said unto them, Take.
+
+    _ This is my Body.
+
+    _ Which is broken for you.
+
+    _ Doe this.
+
+    _ In Remembrance.
+
+    _ Reasons of our Forgetfulnesse.
+
+    _ Of mee
+
+    _ When hee had supped.
+
+    _ This Cup is the New Testament in my blood.
+
+    _ You doe shew forth the Lords body.
+
+    _ Till I come.
+
+    _ Not in Gluttony.
+
+    _ Which dwelt first.
+
+    _ Grand-mother Lois, and Mother Eunice.
+
+    _ Then went hee downe, &c.
+
+    _ Then.
+
+1. A GLASSE FOR GLVTTONS.
+
+    _ When you come together in the Church, &c.
+
+    _ I heare there be divisions among you.
+
+    _ There are divisions.Object.
+
+    _ And I partly beleeve it.
+
+    _ Heresies are worse than Schismes, false doctrines more dangerous than divisions. The former, sinnes against faith; the later, against Charity; and though these two Graces be sisters and twins, yet Faith is the eldest and choycest.
+
+    _ There must be also Heresies.
+
+    _ Among you.
+
+    _ That they which are reproved may be made manifest among you.
+
+    _ This is not to eate the Lords Supper.
+
+    _ For in eating every one taketh before other his owne Supper.
+
+    _ Their Institution.
+
+    _ Their Declination.
+
+    _ Their Corruption.
+
+    _ For in eating every one taketh, &c.
+
+    _ His owne Suyper.
+
+    _ And one is hungry.
+
+    _ And another is drunken.
+
+    _ And shame them that have not.
+
+    _ What shall I say, shall I prayse you in this?
+
+    _ In this I prayse you not.
+
+    _ For I have received of the Lord.
+
+    _ I also delivered unto you.
+
+    _ That the Lord Iesus the same night, wherein he was betrayed.
+
+    _ Tooke Bread.
+
+    _ And when hee had given thankes. 〈 in non-Latin alphabet 〉.
+
+    _ Hee brake it.
+
+    _ And said unto them, Take.
+
+    _ This is my Body.
+
+    _ Which is broken for you.
+
+    _ Doe this.
+
+    _ In Remembrance.
+
+    _ Reasons of our Forgetfulnesse.
+
+    _ Of mee
+
+    _ When hee had supped.
+
+    _ This Cup is the New Testament in my blood.
+
+    _ You doe shew forth the Lords body.
+
+    _ Till I come.
+
+    _ Not in Gluttony.
+
+    _ Which dwelt first.
+
+    _ Grand-mother Lois, and Mother Eunice.
+
+    _ Then went hee downe, &c.
+
+    _ Then.
+
+1. HOVV FARRE GRACE CAN BE ENTAILED.
+
+    _ When you come together in the Church, &c.
+
+    _ I heare there be divisions among you.
+
+    _ There are divisions.Object.
+
+    _ And I partly beleeve it.
+
+    _ Heresies are worse than Schismes, false doctrines more dangerous than divisions. The former, sinnes against faith; the later, against Charity; and though these two Graces be sisters and twins, yet Faith is the eldest and choycest.
+
+    _ There must be also Heresies.
+
+    _ Among you.
+
+    _ That they which are reproved may be made manifest among you.
+
+    _ This is not to eate the Lords Supper.
+
+    _ For in eating every one taketh before other his owne Supper.
+
+    _ Their Institution.
+
+    _ Their Declination.
+
+    _ Their Corruption.
+
+    _ For in eating every one taketh, &c.
+
+    _ His owne Suyper.
+
+    _ And one is hungry.
+
+    _ And another is drunken.
+
+    _ And shame them that have not.
+
+    _ What shall I say, shall I prayse you in this?
+
+    _ In this I prayse you not.
+
+    _ For I have received of the Lord.
+
+    _ I also delivered unto you.
+
+    _ That the Lord Iesus the same night, wherein he was betrayed.
+
+    _ Tooke Bread.
+
+    _ And when hee had given thankes. 〈 in non-Latin alphabet 〉.
+
+    _ Hee brake it.
+
+    _ And said unto them, Take.
+
+    _ This is my Body.
+
+    _ Which is broken for you.
+
+    _ Doe this.
+
+    _ In Remembrance.
+
+    _ Reasons of our Forgetfulnesse.
+
+    _ Of mee
+
+    _ When hee had supped.
+
+    _ This Cup is the New Testament in my blood.
+
+    _ You doe shew forth the Lords body.
+
+    _ Till I come.
+
+    _ Not in Gluttony.
+
+    _ Which dwelt first.
+
+    _ Grand-mother Lois, and Mother Eunice.
+
+    _ Then went hee downe, &c.
+
+    _ Then.
+
+1. A CHRISTNING SERMON.
+
+    _ When you come together in the Church, &c.
+
+    _ I heare there be divisions among you.
+
+    _ There are divisions.Object.
+
+    _ And I partly beleeve it.
+
+    _ Heresies are worse than Schismes, false doctrines more dangerous than divisions. The former, sinnes against faith; the later, against Charity; and though these two Graces be sisters and twins, yet Faith is the eldest and choycest.
+
+    _ There must be also Heresies.
+
+    _ Among you.
+
+    _ That they which are reproved may be made manifest among you.
+
+    _ This is not to eate the Lords Supper.
+
+    _ For in eating every one taketh before other his owne Supper.
+
+    _ Their Institution.
+
+    _ Their Declination.
+
+    _ Their Corruption.
+
+    _ For in eating every one taketh, &c.
+
+    _ His owne Suyper.
+
+    _ And one is hungry.
+
+    _ And another is drunken.
+
+    _ And shame them that have not.
+
+    _ What shall I say, shall I prayse you in this?
+
+    _ In this I prayse you not.
+
+    _ For I have received of the Lord.
+
+    _ I also delivered unto you.
+
+    _ That the Lord Iesus the same night, wherein he was betrayed.
+
+    _ Tooke Bread.
+
+    _ And when hee had given thankes. 〈 in non-Latin alphabet 〉.
+
+    _ Hee brake it.
+
+    _ And said unto them, Take.
+
+    _ This is my Body.
+
+    _ Which is broken for you.
+
+    _ Doe this.
+
+    _ In Remembrance.
+
+    _ Reasons of our Forgetfulnesse.
+
+    _ Of mee
+
+    _ When hee had supped.
+
+    _ This Cup is the New Testament in my blood.
+
+    _ You doe shew forth the Lords body.
+
+    _ Till I come.
+
+    _ Not in Gluttony.
+
+    _ Which dwelt first.
+
+    _ Grand-mother Lois, and Mother Eunice.
+
+    _ Then went hee downe, &c.
+
+    _ Then.
+
+1. FACTION CONFVTED.
+
+    _ When you come together in the Church, &c.
+
+    _ I heare there be divisions among you.
+
+    _ There are divisions.Object.
+
+    _ And I partly beleeve it.
+
+    _ Heresies are worse than Schismes, false doctrines more dangerous than divisions. The former, sinnes against faith; the later, against Charity; and though these two Graces be sisters and twins, yet Faith is the eldest and choycest.
+
+    _ There must be also Heresies.
+
+    _ Among you.
+
+    _ That they which are reproved may be made manifest among you.
+
+    _ This is not to eate the Lords Supper.
+
+    _ For in eating every one taketh before other his owne Supper.
+
+    _ Their Institution.
+
+    _ Their Declination.
+
+    _ Their Corruption.
+
+    _ For in eating every one taketh, &c.
+
+    _ His owne Suyper.
+
+    _ And one is hungry.
+
+    _ And another is drunken.
+
+    _ And shame them that have not.
+
+    _ What shall I say, shall I prayse you in this?
+
+    _ In this I prayse you not.
+
+    _ For I have received of the Lord.
+
+    _ I also delivered unto you.
+
+    _ That the Lord Iesus the same night, wherein he was betrayed.
+
+    _ Tooke Bread.
+
+    _ And when hee had given thankes. 〈 in non-Latin alphabet 〉.
+
+    _ Hee brake it.
+
+    _ And said unto them, Take.
+
+    _ This is my Body.
+
+    _ Which is broken for you.
+
+    _ Doe this.
+
+    _ In Remembrance.
+
+    _ Reasons of our Forgetfulnesse.
+
+    _ Of mee
+
+    _ When hee had supped.
+
+    _ This Cup is the New Testament in my blood.
+
+    _ You doe shew forth the Lords body.
+
+    _ Till I come.
+
+    _ Not in Gluttony.
+
+    _ Which dwelt first.
+
+    _ Grand-mother Lois, and Mother Eunice.
+
+    _ Then went hee downe, &c.
+
+    _ Then.
+
+#####Back#####
+Imprimatur, THOMAS WYKES, May 30. 1640.
+**Types of content**
+
+  * There are 4 **verse** lines!
+  * Oh, Mr. Jourdain, there is **prose** in there!
+
+There are 27 **ommitted** fragments! 
+ @__reason__ (27) : illegible: indecipherable (8), foreign (18), illegible: missing (1)  •  @__extent__ (9) : 1 letter (3), 2 letters (1), 2 words (2), 1 word (2), 5 letters (1)
+
+**Character listing**
+
+
+|Text|string(s)|codepoint(s)|
+|---|---|---|
+|Latin-1 Supplement|²èìù|178 232 236 249|
+|Combining             Diacritical Marks|̄|772|
+|General Punctuation|•|8226|
+|Superscripts             and Subscripts|⁴|8308|
+|Geometric Shapes|▪◊|9642 9674|
+|CJKSymbolsandPunctuation|〈〉|12296 12297|
+
+##Tag Usage Summary##
+
+###Header Tag Usage###
+
+|No|element name|occ|attributes|
+|---|---|---|---|
+|1.|__author__|2||
+|2.|__availability__|1||
+|3.|__biblFull__|1||
+|4.|__change__|5||
+|5.|__date__|8| @__when__ (1) : 2003-01 (1)|
+|6.|__edition__|1||
+|7.|__editionStmt__|1||
+|8.|__editorialDecl__|1||
+|9.|__encodingDesc__|1||
+|10.|__extent__|2||
+|11.|__fileDesc__|1||
+|12.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), OCLC (1), VID (1)|
+|13.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
+|14.|__label__|5||
+|15.|__langUsage__|1||
+|16.|__language__|1| @__ident__ (1) : eng (1)|
+|17.|__listPrefixDef__|1||
+|18.|__note__|9||
+|19.|__notesStmt__|2||
+|20.|__p__|11||
+|21.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
+|22.|__profileDesc__|1||
+|23.|__projectDesc__|1||
+|24.|__pubPlace__|2||
+|25.|__publicationStmt__|2||
+|26.|__publisher__|2||
+|27.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
+|28.|__revisionDesc__|1||
+|29.|__seriesStmt__|1||
+|30.|__sourceDesc__|1||
+|31.|__term__|2||
+|32.|__textClass__|1||
+|33.|__title__|3||
+|34.|__titleStmt__|2||
+
+
+###Text Tag Usage###
+
+|No|element name|occ|attributes|
+|---|---|---|---|
+|1.|__am__|1||
+|2.|__back__|1||
+|3.|__bibl__|9||
+|4.|__body__|1||
+|5.|__closer__|1||
+|6.|__desc__|27||
+|7.|__div__|64| @__type__ (64) : title_page (1), dedication (1), text (11), part (42), sermon (8), imprimatur (1)|
+|8.|__epigraph__|8||
+|9.|__ex__|1||
+|10.|__expan__|1||
+|11.|__front__|1||
+|12.|__g__|1017| @__ref__ (1017) : char:punc (7), char:EOLhyphen (1008), char:abque (1), char:cmbAbbrStroke (1)|
+|13.|__gap__|27| @__reason__ (27) : illegible: indecipherable (8), foreign (18), illegible: missing (1)  •  @__extent__ (9) : 1 letter (3), 2 letters (1), 2 words (2), 1 word (2), 5 letters (1)|
+|14.|__head__|62||
+|15.|__hi__|1347| @__rend__ (1) : sup (1)|
+|16.|__item__|49||
+|17.|__l__|4||
+|18.|__list__|13||
+|19.|__milestone__|16| @__type__ (16) : tcpmilestone (16)  •  @__unit__ (16) : unspecified (16)  •  @__n__ (16) : 1 (3), 2 (4), 3 (4), 4 (4), 5, (1)|
+|20.|__note__|210| @__place__ (210) : margin (210)  •  @__n__ (17) : * (17)|
+|21.|__opener__|1||
+|22.|__p__|390| @__n__ (63) : 1 (10), 2 (19), 4 (6), 3 (11), 5 (3), 6 (3), 7 (1), 8 (1), 9 (1), 10 (1), 11 (1), 12 (1), 13 (1), 14 (1), 15 (1), 16 (1), 17 (1)|
+|23.|__pb__|200| @__facs__ (200) : tcp:27228:1 (2), tcp:27228:2 (2), tcp:27228:3 (2), tcp:27228:4 (2), tcp:27228:5 (2), tcp:27228:6 (2), tcp:27228:7 (2), tcp:27228:8 (2), tcp:27228:9 (2), tcp:27228:10 (2), tcp:27228:11 (2), tcp:27228:12 (2), tcp:27228:13 (2), tcp:27228:14 (2), tcp:27228:15 (2), tcp:27228:16 (2), tcp:27228:17 (2), tcp:27228:18 (2), tcp:27228:19 (2), tcp:27228:20 (2), tcp:27228:21 (2), tcp:27228:22 (2), tcp:27228:23 (2), tcp:27228:24 (2), tcp:27228:25 (2), tcp:27228:26 (2), tcp:27228:27 (2), tcp:27228:28 (2), tcp:27228:29 (2), tcp:27228:30 (2), tcp:27228:31 (2), tcp:27228:32 (2), tcp:27228:33 (2), tcp:27228:34 (2), tcp:27228:35 (2), tcp:27228:36 (2), tcp:27228:37 (2), tcp:27228:38 (2), tcp:27228:39 (2), tcp:27228:40 (2), tcp:27228:41 (2), tcp:27228:42 (2), tcp:27228:43 (2), tcp:27228:44 (2), tcp:27228:45 (2), tcp:27228:46 (2), tcp:27228:47 (2), tcp:27228:48 (2), tcp:27228:49 (2), tcp:27228:50 (2), tcp:27228:51 (2), tcp:27228:52 (2), tcp:27228:53 (2), tcp:27228:54 (2), tcp:27228:55 (2), tcp:27228:56 (2), tcp:27228:57 (2), tcp:27228:58 (2), tcp:27228:59 (2), tcp:27228:60 (2), tcp:27228:61 (2), tcp:27228:62 (2), tcp:27228:63 (2), tcp:27228:64 (2), tcp:27228:65 (2), tcp:27228:66 (2), tcp:27228:67 (2), tcp:27228:68 (2), tcp:27228:69 (2), tcp:27228:70 (2), tcp:27228:71 (2), tcp:27228:72 (2), tcp:27228:73 (2), tcp:27228:74 (2), tcp:27228:75 (2), tcp:27228:76 (2), tcp:27228:77 (2), tcp:27228:78 (2), tcp:27228:79 (2), tcp:27228:80 (2), tcp:27228:81 (2), tcp:27228:82 (2), tcp:27228:83 (2), tcp:27228:84 (2), tcp:27228:85 (2), tcp:27228:86 (2), tcp:27228:87 (2), tcp:27228:88 (2), tcp:27228:89 (2), tcp:27228:90 (2), tcp:27228:91 (2), tcp:27228:92 (2), tcp:27228:93 (2), tcp:27228:94 (2), tcp:27228:95 (2), tcp:27228:96 (2), tcp:27228:97 (2), tcp:27228:98 (2), tcp:27228:99 (2), tcp:27228:100 (2)  •  @__n__ (189) : 1 (1), 2 (1), 3 (1), 4 (1), 5 (1), 6 (1), 7 (1), 8 (1), 9 (1), 10 (1), 11 (1), 12 (1), 13 (1), 14 (1), 15 (1), 16 (1), 17 (1), 19 (1), 18 (1), 20 (1), 21 (1), 22 (1), 23 (1), 24 (1), 25 (1), 26 (1), 27 (1), 28 (1), 29 (1), 30 (1), 31 (1), 32 (1), 33 (1), 34 (1), 35 (1), 36 (1), 37 (1), 38 (1), 39 (1), 40 (1), 41 (1), 42 (1), 43 (1), 44 (1), 45 (1), 46 (1), 47 (1), 48 (1), 49 (1), 50 (1), 51 (1), 52 (1), 53 (1), 54 (1), 55 (1), 56 (1), 57 (1), 58 (1), 59 (1), 60 (1), 61 (1), 62 (1), 63 (2), 64 (2), 65 (1), 66 (1), 67 (1), 68 (1), 69 (1), 70 (1), 71 (1), 72 (1), 73 (1), 74 (1), 75 (1), 76 (1), 77 (1), 78 (1), 79 (1), 80 (1), 81 (1), 82 (1), 83 (1), 84 (1), 85 (1), 86 (1), 87 (1), 88 (1), 90 (2), 91 (1), 92 (1), 93 (1), 94 (1), 95 (1), 96 (1), 97 (1), 98 (1), 99 (1), 100 (1), 101 (1), 103 (1), 104 (1), 105 (1), 106 (1), 107 (1), 108 (1), 109 (1), 110 (1), 111 (1), 112 (1), 113 (1), 114 (1), 115 (1), 116 (1), 118 (1), 119 (1), 120 (1), 121 (1), 122 (1), 123 (1), 124 (1), 125 (1), 126 (1), 127 (1), 128 (1), 129 (1), 130 (1), 131 (1), 132 (1), 133 (1), 134 (1), 135 (1), 136 (1), 137 (1), 139 (1), 140 (1), 141 (1), 142 (1), 143 (1), 144 (1), 145 (1), 146 (1), 147 (1), 148 (1), 149 (1), 151 (1), 152 (1), 153 (1), 154 (1), 155 (1), 156 (1), 157 (1), 158 (1), 159 (1), 160 (1), 161 (1), 163 (1), 164 (1), 165 (1), 166 (1), 167 (1), 168 (1), 169 (1), 170 (1), 171 (1), 172 (1), 173 (2), 174 (2), 175 (1), 176 (1), 177 (1), 178 (1), 179 (1), 180 (1), 181 (1), 182 (1), 183 (1), 184 (1), 185 (1), 186 (1), 187 (1), 188 (1), 189 (1), 190 (1)  •  @__rendition__ (1) : simple:additions (1)|
+|24.|__q__|12||
+|25.|__salute__|1||
+|26.|__seg__|20| @__rend__ (20) : decorInit (20)|
+|27.|__signed__|1||
+|28.|__trailer__|1||
